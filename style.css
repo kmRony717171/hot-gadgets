@@ -1,0 +1,57 @@
+body{
+    background-color: rgba(176, 224, 230, 0.11);
+}
+.container{
+    margin-bottom: 50px;
+}
+.navbar-brand img{
+    width: 60%;
+}
+.my-button{
+    padding: 6px 12px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.my-bg{
+    background-color: yellowgreen;
+    border-radius: 10px;
+}
+.see{
+    text-decoration: none;
+    color: orangered;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card-body{
+    text-align: center;
+}
+.catagories{
+    height: 600px;
+}
+.line{
+    width: 100px;
+    height: 7px;
+    background-color: orangered;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+.tiny1, .tiny2{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.tiny1{
+    border-radius: 0 10px 0 30px;
+}
+.tiny2{
+    border-radius: 15px 5px 30px 0;
+}
